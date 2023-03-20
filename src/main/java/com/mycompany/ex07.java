@@ -2,7 +2,7 @@ package com.mycompany;
 
 import javax.swing.JOptionPane;
 
-public class ex07 {
+public class Ex07 {
     public static void main(String[] args) {
         String numero = "";
         for (int i = 0; i < 4; i++) {

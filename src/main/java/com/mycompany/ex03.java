@@ -2,7 +2,7 @@ package com.mycompany;
 
 import javax.swing.JOptionPane;
 
-public class ex03 {
+public class Ex03 {
     public static void main(String[] args) {
         int n;
         n = Integer.parseInt(JOptionPane.showInputDialog("Digite um número:"));

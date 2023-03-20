@@ -2,7 +2,7 @@ package com.mycompany;
 
 import javax.swing.JOptionPane;
 
-public class ex05 {
+public class Ex05 {
     public static void main(String[] args) {
         float peso, altura;
         peso = Float.parseFloat(JOptionPane.showInputDialog("Digite seu peso (em kg):"));

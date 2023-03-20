@@ -2,7 +2,7 @@ package com.mycompany;
 
 import javax.swing.JOptionPane;
 
-public class ex04 {
+public class Ex04 {
     public static void main(String[] args) {
         int dia, mes, ano;
         dia = Integer.parseInt(JOptionPane.showInputDialog("Digite um dia:"));

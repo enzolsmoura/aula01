@@ -2,7 +2,7 @@ package com.mycompany;
 
 import javax.swing.JOptionPane;
 
-public class ex01 {
+public class Ex01 {
     public static void main(String[] args) {
         String palavras[] = new String[3];
         String frase = "";
